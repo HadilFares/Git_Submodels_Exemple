@@ -1,0 +1,3 @@
+[submodule "Git_Scripts"]
+	path = Git_Scripts
+	url = https://github.com/HadilFares/Git_Scripts.git
